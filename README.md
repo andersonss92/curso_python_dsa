@@ -1,6 +1,6 @@
 # Fundamentos de Python para Analise de Dados 3.0 - DSA Academy 
 
-Olá este é um repositório criado com o intuito de guardar todos os códigos elaborados e desenvolvidos durante o  meu processo de aprendizagem no curso de Fundamentos de Python para Analise de Dados 3.0 da DSA Academy!
+Olá este é um repositório criado com o intuito de guardar todos os códigos elaborados e desenvolvidos durante o  meu processo de aprendizagem no curso de Fundamentos de Python para Analise de Dados 3.0 da Data Science Academy!
 
 ### Capítulo 1:
 Apresentação do conteúdo curso e de toda a metodologia de ensino da DSA.
@@ -11,3 +11,4 @@ Apresentação do conteúdo curso e de toda a metodologia de ensino da DSA.
 [numeros_operacoes_matematicas.ipnyb](https://github.com/andersonss92/curso_python_dsa/blob/main/numeros_operacoes_matematicas.ipynb)<br>
 [variaveis_operadores.py](https://github.com/andersonss92/curso_python_dsa/blob/main/variaveis_operadores.py)<br>
 [strings.py](https://github.com/andersonss92/curso_python_dsa/blob/main/strings.py)<br>
+[listas.py](https://github.com/andersonss92/curso_python_dsa/blob/main/listas.py)<br>
