@@ -9,4 +9,5 @@ Apresentação do conteúdo curso e de toda a metodologia de ensino da DSA.
  Aulas focadas nas funcionalidades e conceitos básicos da linguagem Python;
 
 [numeros_operacoes_matematicas.ipnyb](https://github.com/andersonss92/curso_python_dsa/blob/main/numeros_operacoes_matematicas.ipynb)<br>
-[variaveis_operadores.py](https://github.com/andersonss92/curso_python_dsa/blob/main/variaveis_operadores.py)
+[variaveis_operadores.py](https://github.com/andersonss92/curso_python_dsa/blob/main/variaveis_operadores.py)<br>
+[strings.py](https://github.com/andersonss92/curso_python_dsa/blob/main/strings.py)<br>
