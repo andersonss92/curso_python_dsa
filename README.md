@@ -12,3 +12,4 @@ Apresentação do conteúdo curso e de toda a metodologia de ensino da DSA.
 [variaveis_operadores.py](https://github.com/andersonss92/curso_python_dsa/blob/main/variaveis_operadores.py)<br>
 [strings.py](https://github.com/andersonss92/curso_python_dsa/blob/main/strings.py)<br>
 [listas.py](https://github.com/andersonss92/curso_python_dsa/blob/main/listas.py)<br>
+[dicionarios.py](https://github.com/andersonss92/curso_python_dsa/blob/main/dicionarios.py)<br>
