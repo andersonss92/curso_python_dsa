@@ -14,3 +14,4 @@ Apresentação do conteúdo curso e de toda a metodologia de ensino da DSA.
 [listas.py](https://github.com/andersonss92/curso_python_dsa/blob/main/listas.py)<br>
 [dicionarios.py](https://github.com/andersonss92/curso_python_dsa/blob/main/dicionarios.py)<br>
 [tuplas.py](https://github.com/andersonss92/curso_python_dsa/blob/main/tuplas.py)<br>
+[exercicios.py](https://github.com/andersonss92/curso_python_dsa/blob/main/exercicios.py)<br>
