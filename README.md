@@ -15,3 +15,8 @@ Apresentação do conteúdo curso e de toda a metodologia de ensino da DSA.
 [dicionarios.py](https://github.com/andersonss92/curso_python_dsa/blob/main/dicionarios.py)<br>
 [tuplas.py](https://github.com/andersonss92/curso_python_dsa/blob/main/tuplas.py)<br>
 [exercicios.py](https://github.com/andersonss92/curso_python_dsa/blob/main/exercicios.py)<br>
+
+### Capítulo 3:
+ Aulas focadas nas funcionalidades e conceitos básicos da linguagem Python 2;
+
+[if-elif-else.py](https://github.com/andersonss92/curso_python_dsa/blob/main/if-elif-elseipy)<br>
