@@ -19,4 +19,5 @@ Apresentação do conteúdo curso e de toda a metodologia de ensino da DSA.
 ### Capítulo 3:
  Aulas focadas nas funcionalidades e conceitos básicos da linguagem Python 2;
 
-[if-elif-else.py](https://github.com/andersonss92/curso_python_dsa/blob/main/if-elif-elseipy)<br>
+[if-elif-else.py](https://github.com/andersonss92/curso_python_dsa/blob/main/if-elif-else.py)<br>
+[loop-for.py](https://github.com/andersonss92/curso_python_dsa/blob/main/loop-for.py)<br>
