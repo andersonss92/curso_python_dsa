@@ -22,3 +22,4 @@ Apresentação do conteúdo curso e de toda a metodologia de ensino da DSA.
 [if-elif-else.py](https://github.com/andersonss92/curso_python_dsa/blob/main/if-elif-else.py)<br>
 [loop-for.py](https://github.com/andersonss92/curso_python_dsa/blob/main/loop-for.py)<br>
 [while.py](https://github.com/andersonss92/curso_python_dsa/blob/main/while.py)<br>
+[range.py](https://github.com/andersonss92/curso_python_dsa/blob/main/range.py)<br>
