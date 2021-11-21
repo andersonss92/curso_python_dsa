@@ -27,3 +27,8 @@ Apresentação do conteúdo curso e de toda a metodologia de ensino da DSA.
 [funcoes.py](https://github.com/andersonss92/curso_python_dsa/blob/main/funcoes.py)<br>
 [lambda.py](https://github.com/andersonss92/curso_python_dsa/blob/main/lambda.py)<br>
 [exercicios1.py](https://github.com/andersonss92/curso_python_dsa/blob/main/exercicios1.py)<br>
+
+### Capítulo 4:
+ Introdução a manipulação de arquivos em Python;
+ 
+ [trabalhando-com-arquivos-1.py](https://github.com/andersonss92/curso_python_dsa/blob/main/trabalhando-com-arquivos-1.py)<br>
