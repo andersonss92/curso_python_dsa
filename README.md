@@ -34,3 +34,4 @@ Apresentação do conteúdo curso e de toda a metodologia de ensino da DSA.
  [trabalhando-com-arquivos-1.py](https://github.com/andersonss92/curso_python_dsa/blob/main/trabalhando-com-arquivos-1.py)<br>
  [trabalhando-com-arquivos-2.py](https://github.com/andersonss92/curso_python_dsa/blob/main/trabalhando-com-arquivos-2.py)<br>
  [modulos-e-pacotes.py](https://github.com/andersonss92/curso_python_dsa/blob/main/modulos-e-pacotes.py)<br>
+ [datetime.py](https://github.com/andersonss92/curso_python_dsa/blob/main/datetime.py)<br>
