@@ -36,3 +36,4 @@ Apresentação do conteúdo curso e de toda a metodologia de ensino da DSA.
  [modulos-e-pacotes.py](https://github.com/andersonss92/curso_python_dsa/blob/main/modulos-e-pacotes.py)<br>
  [datetime.py](https://github.com/andersonss92/curso_python_dsa/blob/main/datetime.py)<br>
  [map.py](https://github.com/andersonss92/curso_python_dsa/blob/main/map.py)<br>
+ [reduce.py](https://github.com/andersonss92/curso_python_dsa/blob/main/reduce.py)<br>
