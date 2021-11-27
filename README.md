@@ -41,3 +41,4 @@ Apresentação do conteúdo curso e de toda a metodologia de ensino da DSA.
  [list-comprehension.py](https://github.com/andersonss92/curso_python_dsa/blob/main/list-comprehension.py)<br>
  [zip.py](https://github.com/andersonss92/curso_python_dsa/blob/main/zip.py)<br>
  [enumerate.py](https://github.com/andersonss92/curso_python_dsa/blob/main/enumerate.py)<br>
+ [erros-e-excecoes.py](https://github.com/andersonss92/curso_python_dsa/blob/main/erros-e-excecoes.py)<br>
