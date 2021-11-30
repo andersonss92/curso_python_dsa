@@ -42,3 +42,9 @@ Apresentação do conteúdo curso e de toda a metodologia de ensino da DSA.
  [zip.py](https://github.com/andersonss92/curso_python_dsa/blob/main/zip.py)<br>
  [enumerate.py](https://github.com/andersonss92/curso_python_dsa/blob/main/enumerate.py)<br>
  [erros-e-excecoes.py](https://github.com/andersonss92/curso_python_dsa/blob/main/erros-e-excecoes.py)<br>
+
+### Capítulo 5:
+ Capitulo voltado para POO:
+ 
+ [class.py](https://github.com/andersonss92/curso_python_dsa/blob/main/classes.py)<br>
+  [objetos.py](https://github.com/andersonss92/curso_python_dsa/blob/main/classes.py)<br>
