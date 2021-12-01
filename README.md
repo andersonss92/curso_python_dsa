@@ -47,4 +47,5 @@ Apresentação do conteúdo curso e de toda a metodologia de ensino da DSA.
  Capitulo voltado para POO:
  
  [class.py](https://github.com/andersonss92/curso_python_dsa/blob/main/classes.py)<br>
-  [objetos.py](https://github.com/andersonss92/curso_python_dsa/blob/main/classes.py)<br>
+ [objetos.py](https://github.com/andersonss92/curso_python_dsa/blob/main/objetos.py)<br>
+ [metodos2.py](https://github.com/andersonss92/curso_python_dsa/blob/main/metodos2.py)<br>
